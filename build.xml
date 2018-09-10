@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project basedir="." default="build" name="BeeSphere Edi Reader/Writer">
+
+	<!-- Current version we are working towards -->
+	<property name="VERSION" value="1.0" />
+	<!-- Project nick definition -->
+	<property name="prj" value="beesphere-edi-converter" />
+
+	<property name="src" value="${basedir}/src" />
+	<property name="lib" value="${basedir}/lib" />
+	<property name="dist" value="${basedir}/dist" />
+	<property name="bin" value="${basedir}/bin" />
+
+	<target name="build">
+		<echo message="Creating Archive ${prj}" />
+		<jar jarfile="${prj}-${VERSION}.jar">
+			<manifest>
+				<attribute name="${prj}" value="Version ${VERSION}" />
+			</manifest>
+			<fileset dir="${bin}/">
+				<include name="**/*.class" />
+				<include name="**/*.dtd" />
+				<include name="**/*.xml" />
+				<include name="**/*.properties" />
+				<exclude name="com/beesphere/edi/generator/**/*"/>
+				<exclude name="com/beesphere/edi/**/tests/**/*"/>
+			</fileset>
+		</jar>
+		<copy file="${prj}-${VERSION}.jar" todir="${dist}" />
+		<copy file="${prj}-${VERSION}.jar" tofile="${dist}/${prj}.jar" />
+		<delete file="${prj}-${VERSION}.jar" />
+	</target>
+		
+	<target name="all" depends="build" />
+</project>

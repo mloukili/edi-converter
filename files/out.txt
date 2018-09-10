@@ -1,0 +1,2800 @@
+Start : Interchange:
+Start : ISA:
+Start : FI01:
+00
+End: FI01
+
+Start : FI02:
+          
+End: FI02
+
+Start : FI03:
+00
+End: FI03
+
+Start : FI04:
+          
+End: FI04
+
+Start : FI05_1:
+ZZ
+End: FI05_1
+
+Start : FI06:
+SENDER         
+End: FI06
+
+Start : FI05_2:
+ZZ
+End: FI05_2
+
+Start : FI07:
+RECEIVER       
+End: FI07
+
+Start : FI08:
+990914
+End: FI08
+
+Start : FI09:
+0244
+End: FI09
+
+Start : FI65:
+U
+End: FI65
+
+Start : FI11:
+00401
+End: FI11
+
+Start : FI12:
+100007098
+End: FI12
+
+Start : FI13:
+0
+End: FI13
+
+Start : FI14:
+P
+End: FI14
+
+Start : FI15:
+:
+End: FI15
+
+End: ISA
+Start : Group:
+Start : GS:
+Start : F479:
+SS
+End: F479
+
+Start : F142:
+147754931
+End: F142
+
+Start : F124:
+065873374
+End: F124
+
+Start : F373:
+19990914
+End: F373
+
+Start : F337:
+0244
+End: F337
+
+Start : F28:
+1
+End: F28
+
+Start : F455:
+X
+End: F455
+
+Start : F480:
+004010
+End: F480
+
+End: GS
+Start : Message:
+Start : ST:
+Start : F143:
+837
+End: F143
+
+Start : F329:
+987654
+End: F329
+
+End: ST
+Start : BHT:
+Start : F1005:
+0019
+End: F1005
+
+Start : F353:
+00
+End: F353
+
+Start : F127:
+A12345
+End: F127
+
+Start : F373:
+20010801
+End: F373
+
+Start : F337:
+1800
+End: F337
+
+End: BHT
+Start : Loop1000:
+Start : NM1:
+Start : F98_1:
+41
+End: F98_1
+
+Start : F1065:
+2
+End: F1065
+
+Start : F1035_1:
+TOO GOOD HOSPITAL
+End: F1035_1
+
+Start : F1036:
+
+End: F1036
+
+Start : F1037:
+
+End: F1037
+
+Start : F1038:
+
+End: F1038
+
+Start : F1039:
+
+End: F1039
+
+Start : F66:
+46
+End: F66
+
+Start : F67:
+999008888
+End: F67
+
+End: NM1
+Start : NM1:
+Start : F98_1:
+40
+End: F98_1
+
+Start : F1065:
+2
+End: F1065
+
+Start : F1035_1:
+MY STATE DATA AGENCY
+End: F1035_1
+
+Start : F1036:
+
+End: F1036
+
+Start : F1037:
+
+End: F1037
+
+Start : F1038:
+
+End: F1038
+
+Start : F1039:
+
+End: F1039
+
+Start : F66:
+46
+End: F66
+
+Start : F67:
+12000
+End: F67
+
+End: NM1
+End: Loop1000
+Start : Loop2000:
+Start : HL:
+Start : F628:
+1
+End: F628
+
+Start : F734:
+
+End: F734
+
+Start : F735:
+20
+End: F735
+
+Start : F736:
+1
+End: F736
+
+End: HL
+Start : Loop2010:
+Start : NM1:
+Start : F98_1:
+85
+End: F98_1
+
+Start : F1065:
+2
+End: F1065
+
+Start : F1035_1:
+TOO GOOD HOSPITAL
+End: F1035_1
+
+Start : F1036:
+
+End: F1036
+
+Start : F1037:
+
+End: F1037
+
+Start : F1038:
+
+End: F1038
+
+Start : F1039:
+
+End: F1039
+
+Start : F66:
+24
+End: F66
+
+Start : F67:
+999008888
+End: F67
+
+End: NM1
+Start : REF:
+Start : F128:
+1J
+End: F128
+
+Start : F127:
+898989
+End: F127
+
+End: REF
+End: Loop2010
+End: Loop2000
+Start : Loop2000:
+Start : HL:
+Start : F628:
+2
+End: F628
+
+Start : F734:
+1
+End: F734
+
+Start : F735:
+22
+End: F735
+
+Start : F736:
+1
+End: F736
+
+End: HL
+Start : SBR:
+Start : F1138:
+P
+End: F1138
+
+Start : F1069:
+
+End: F1069
+
+Start : F127:
+
+End: F127
+
+Start : F93:
+
+End: F93
+
+Start : F1336:
+
+End: F1336
+
+Start : F1143:
+
+End: F1143
+
+Start : F1073:
+
+End: F1073
+
+Start : F584:
+
+End: F584
+
+Start : F1032:
+BL
+End: F1032
+
+End: SBR
+Start : Loop2010:
+Start : NM1:
+Start : F98_1:
+IL
+End: F98_1
+
+Start : F1065:
+1
+End: F1065
+
+Start : F1035_1:
+GREENE
+End: F1035_1
+
+Start : F1036:
+SCOTT
+End: F1036
+
+Start : F1037:
+A
+End: F1037
+
+Start : F1038:
+
+End: F1038
+
+Start : F1039:
+MI
+End: F1039
+
+Start : F66:
+GRNESSC1234
+End: F66
+
+End: NM1
+Start : N3:
+Start : F166_1:
+1313 MOCKINGBIRD LANE
+End: F166_1
+
+End: N3
+Start : N4:
+Start : F19:
+ANYTOWN
+End: F19
+
+Start : F156:
+NY
+End: F156
+
+Start : F116:
+09090
+End: F116
+
+End: N4
+Start : DMG:
+Start : F1250:
+D8
+End: F1250
+
+Start : F1251:
+19760706
+End: F1251
+
+Start : F1068:
+M
+End: F1068
+
+Start : F1067:
+
+End: F1067
+
+Start : C056:
+Start : F1109:
+RET
+End: F1109
+
+Start : F1270:
+3
+End: F1270
+
+Start : F1271:
+2
+End: F1271
+
+End: C056
+End: DMG
+Start : REF:
+Start : F128:
+SY
+End: F128
+
+Start : F127:
+130281234
+End: F127
+
+End: REF
+End: Loop2010
+Start : Loop2010:
+Start : NM1:
+Start : F98_1:
+PR
+End: F98_1
+
+Start : F1065:
+2
+End: F1065
+
+Start : F1035_1:
+EMPIRE BLUE CROSS
+End: F1035_1
+
+Start : F1036:
+
+End: F1036
+
+Start : F1037:
+
+End: F1037
+
+Start : F1038:
+
+End: F1038
+
+Start : F1039:
+
+End: F1039
+
+Start : F66:
+PI
+End: F66
+
+Start : F67:
+00303
+End: F67
+
+End: NM1
+End: Loop2010
+Start : Loop2300:
+Start : CLM:
+Start : F1028:
+ABH123456
+End: F1028
+
+Start : F782:
+5015
+End: F782
+
+Start : F1032:
+
+End: F1032
+
+Start : F1343:
+
+End: F1343
+
+Start : C023:
+Start : F1331:
+11
+End: F1331
+
+Start : F1332:
+A
+End: F1332
+
+Start : F1325:
+1
+End: F1325
+
+End: C023
+End: CLM
+Start : DTP:
+Start : F374:
+096
+End: F374
+
+Start : F1250:
+TM
+End: F1250
+
+Start : F1251:
+1200
+End: F1251
+
+End: DTP
+Start : DTP:
+Start : F374:
+434
+End: F374
+
+Start : F1250:
+RD8
+End: F1250
+
+Start : F1251:
+20010610-20010611
+End: F1251
+
+End: DTP
+Start : DTP:
+Start : F374:
+435
+End: F374
+
+Start : F1250:
+DT
+End: F1250
+
+Start : F1251:
+200106100900
+End: F1251
+
+End: DTP
+Start : CL1:
+Start : F1315:
+2
+End: F1315
+
+Start : F1314:
+1
+End: F1314
+
+Start : F1352:
+01
+End: F1352
+
+End: CL1
+Start : REF:
+Start : F128:
+EA
+End: F128
+
+Start : F127:
+ABHMEDRECMOM
+End: F127
+
+End: REF
+Start : NTE:
+Start : F363:
+UPI
+End: F363
+
+Start : F352:
+STATE SPECIFIC REQUIREMENTS
+End: F352
+
+End: NTE
+Start : HI:
+Start : C022_1:
+Start : F1270:
+BK
+End: F1270
+
+Start : F1271_1:
+66411
+End: F1271_1
+
+End: C022_1
+Start : C022_2:
+Start : F1270:
+BJ
+End: F1270
+
+Start : F1271_1:
+66411
+End: F1271_1
+
+End: C022_2
+End: HI
+Start : HI:
+Start : C022_1:
+Start : F1270:
+BF
+End: F1270
+
+Start : F1271_1:
+66331
+End: F1271_1
+
+Start : F1250:
+
+End: F1250
+
+Start : F1251:
+
+End: F1251
+
+Start : F782:
+
+End: F782
+
+Start : F380:
+
+End: F380
+
+Start : F799:
+
+End: F799
+
+Start : F1271_2:
+
+End: F1271_2
+
+Start : F1073:
+Y
+End: F1073
+
+End: C022_1
+Start : C022_2:
+Start : F1270:
+BF
+End: F1270
+
+Start : F1271_1:
+66111
+End: F1271_1
+
+Start : F1250:
+
+End: F1250
+
+Start : F1251:
+
+End: F1251
+
+Start : F782:
+
+End: F782
+
+Start : F380:
+
+End: F380
+
+Start : F799:
+
+End: F799
+
+Start : F1271_2:
+
+End: F1271_2
+
+Start : F1073:
+N
+End: F1073
+
+End: C022_2
+Start : C022_3:
+Start : F1270:
+BF
+End: F1270
+
+Start : F1271_1:
+V270
+End: F1271_1
+
+Start : F1250:
+
+End: F1250
+
+Start : F1251:
+
+End: F1251
+
+Start : F782:
+
+End: F782
+
+Start : F380:
+
+End: F380
+
+Start : F799:
+
+End: F799
+
+Start : F1271_2:
+
+End: F1271_2
+
+Start : F1073:
+N
+End: F1073
+
+End: C022_3
+End: HI
+Start : HI:
+Start : C022_1:
+Start : F1270:
+BR
+End: F1270
+
+Start : F1271_1:
+7569
+End: F1271_1
+
+Start : F1250:
+D8
+End: F1250
+
+Start : F1251:
+20010610
+End: F1251
+
+End: C022_1
+End: HI
+Start : HI:
+Start : C022_1:
+Start : F1270:
+BQ
+End: F1270
+
+Start : F1271_1:
+7309
+End: F1271_1
+
+Start : F1250:
+D8
+End: F1250
+
+Start : F1251:
+20010610
+End: F1251
+
+End: C022_1
+End: HI
+Start : Loop2310:
+Start : NM1:
+Start : F98_1:
+71
+End: F98_1
+
+Start : F1065:
+1
+End: F1065
+
+Start : F1035_1:
+DOCTOR
+End: F1035_1
+
+Start : F1036:
+JOE
+End: F1036
+
+Start : F1037:
+
+End: F1037
+
+Start : F1038:
+
+End: F1038
+
+Start : F1039:
+
+End: F1039
+
+Start : F66:
+XX
+End: F66
+
+Start : F67:
+F88888
+End: F67
+
+End: NM1
+Start : REF:
+Start : F128:
+1G
+End: F128
+
+Start : F127:
+JDUPIN
+End: F127
+
+End: REF
+Start : REF:
+Start : F128:
+0B
+End: F128
+
+Start : F127:
+JDSTAATE
+End: F127
+
+End: REF
+End: Loop2310
+Start : Loop2310:
+Start : NM1:
+Start : F98_1:
+72
+End: F98_1
+
+Start : F1065:
+1
+End: F1065
+
+Start : F1035_1:
+SURGEON
+End: F1035_1
+
+Start : F1036:
+REALGOOD
+End: F1036
+
+Start : F1037:
+
+End: F1037
+
+Start : F1038:
+
+End: F1038
+
+Start : F1039:
+
+End: F1039
+
+Start : F66:
+XX
+End: F66
+
+Start : F67:
+F99999
+End: F67
+
+End: NM1
+Start : REF:
+Start : F128:
+0B
+End: F128
+
+Start : F127:
+RSUPIN
+End: F127
+
+End: REF
+Start : REF:
+Start : F128:
+1G
+End: F128
+
+Start : F127:
+RSSTA
+End: F127
+
+End: REF
+End: Loop2310
+Start : Loop2320:
+Start : SBR:
+Start : F1138:
+S
+End: F1138
+
+Start : F1069:
+
+End: F1069
+
+Start : F127:
+
+End: F127
+
+Start : F93:
+
+End: F93
+
+Start : F1336:
+
+End: F1336
+
+Start : F1143:
+
+End: F1143
+
+Start : F1073:
+
+End: F1073
+
+Start : F584:
+
+End: F584
+
+Start : F1032:
+CI
+End: F1032
+
+End: SBR
+Start : Loop2330:
+Start : NM1:
+Start : F98_1:
+IL
+End: F98_1
+
+Start : F1065:
+1
+End: F1065
+
+Start : F1035_1:
+Greene
+End: F1035_1
+
+Start : F1036:
+Beth
+End: F1036
+
+Start : F1037:
+P
+End: F1037
+
+End: NM1
+End: Loop2330
+End: Loop2320
+Start : Loop2400:
+Start : LX:
+Start : F554:
+1
+End: F554
+
+End: LX
+Start : SV2:
+Start : F234:
+001
+End: F234
+
+Start : F782_1:
+5015
+End: F782_1
+
+End: SV2
+End: Loop2400
+Start : Loop2400:
+Start : LX:
+Start : F554:
+2
+End: F554
+
+End: LX
+Start : SV2:
+Start : F234:
+122
+End: F234
+
+Start : F782_1:
+2754
+End: F782_1
+
+Start : F355:
+DA
+End: F355
+
+Start : F380:
+2
+End: F380
+
+Start : F1371:
+1377
+End: F1371
+
+End: SV2
+End: Loop2400
+Start : Loop2400:
+Start : LX:
+Start : F554:
+3
+End: F554
+
+End: LX
+Start : SV2:
+Start : F234:
+258
+End: F234
+
+Start : F782_1:
+15
+End: F782_1
+
+End: SV2
+End: Loop2400
+Start : Loop2400:
+Start : LX:
+Start : F554:
+4
+End: F554
+
+End: LX
+Start : SV2:
+Start : F234:
+259
+End: F234
+
+Start : F782_1:
+68
+End: F782_1
+
+End: SV2
+End: Loop2400
+Start : Loop2400:
+Start : LX:
+Start : F554:
+5
+End: F554
+
+End: LX
+Start : SV2:
+Start : F234:
+279
+End: F234
+
+Start : F782_1:
+59
+End: F782_1
+
+End: SV2
+End: Loop2400
+Start : Loop2400:
+Start : LX:
+Start : F554:
+6
+End: F554
+
+End: LX
+Start : SV2:
+Start : F234:
+305
+End: F234
+
+Start : F782_1:
+38
+End: F782_1
+
+End: SV2
+End: Loop2400
+Start : Loop2400:
+Start : LX:
+Start : F554:
+7
+End: F554
+
+End: LX
+Start : SV2:
+Start : F234:
+309
+End: F234
+
+Start : F782_1:
+39
+End: F782_1
+
+End: SV2
+End: Loop2400
+Start : Loop2400:
+Start : LX:
+Start : F554:
+8
+End: F554
+
+End: LX
+Start : SV2:
+Start : F234:
+729
+End: F234
+
+Start : F782_1:
+2034
+End: F782_1
+
+End: SV2
+End: Loop2400
+Start : Loop2400:
+Start : LX:
+Start : F554:
+9
+End: F554
+
+End: LX
+Start : SV2:
+Start : F234:
+999
+End: F234
+
+Start : F782_1:
+8
+End: F782_1
+
+End: SV2
+End: Loop2400
+End: Loop2300
+End: Loop2000
+Start : Loop2000:
+Start : HL:
+Start : F628:
+3
+End: F628
+
+Start : F734:
+1
+End: F734
+
+Start : F735:
+22
+End: F735
+
+Start : F736:
+0
+End: F736
+
+End: HL
+Start : PAT:
+Start : F1069:
+
+End: F1069
+
+Start : F1384:
+
+End: F1384
+
+Start : F584:
+
+End: F584
+
+Start : F1220:
+
+End: F1220
+
+Start : F1250:
+
+End: F1250
+
+Start : F1251:
+
+End: F1251
+
+Start : F355:
+
+End: F355
+
+Start : F81:
+
+End: F81
+
+Start : F1073:
+Y
+End: F1073
+
+End: PAT
+Start : Loop2010:
+Start : NM1:
+Start : F98_1:
+QC
+End: F98_1
+
+Start : F1065:
+1
+End: F1065
+
+Start : F1035_1:
+BEST
+End: F1035_1
+
+Start : F1036:
+NANCY
+End: F1036
+
+Start : F1037:
+E
+End: F1037
+
+Start : F1038:
+
+End: F1038
+
+Start : F1039:
+MI
+End: F1039
+
+Start : F66:
+BESTNA9999
+End: F66
+
+End: NM1
+Start : N3:
+Start : F166_1:
+1313 MOCKINGBIRD LANE
+End: F166_1
+
+End: N3
+Start : N4:
+Start : F19:
+ANYTOWN
+End: F19
+
+Start : F156:
+NJ
+End: F156
+
+Start : F116:
+0
+End: F116
+
+Start : F26:
+09090
+End: F26
+
+End: N4
+Start : DMG:
+Start : F1250:
+D8
+End: F1250
+
+Start : F1251:
+20010610
+End: F1251
+
+Start : F1068:
+F
+End: F1068
+
+Start : F1067:
+
+End: F1067
+
+Start : C056:
+Start : F1109:
+RET
+End: F1109
+
+Start : F1270:
+3
+End: F1270
+
+Start : F1271:
+2
+End: F1271
+
+End: C056
+End: DMG
+Start : REF:
+Start : F128:
+SY
+End: F128
+
+Start : F127:
+999999999
+End: F127
+
+End: REF
+End: Loop2010
+Start : Loop2300:
+Start : CLM:
+Start : F1028:
+ABH1234567
+End: F1028
+
+Start : F782:
+2343
+End: F782
+
+Start : F1032:
+
+End: F1032
+
+Start : F1343:
+
+End: F1343
+
+Start : C023:
+Start : F1331:
+11
+End: F1331
+
+Start : F1332:
+A
+End: F1332
+
+Start : F1325:
+1
+End: F1325
+
+End: C023
+End: CLM
+Start : DTP:
+Start : F374:
+096
+End: F374
+
+Start : F1250:
+TM
+End: F1250
+
+Start : F1251:
+1600
+End: F1251
+
+End: DTP
+Start : DTP:
+Start : F374:
+434
+End: F374
+
+Start : F1250:
+RD8
+End: F1250
+
+Start : F1251:
+20010610-20010611
+End: F1251
+
+End: DTP
+Start : DTP:
+Start : F374:
+435
+End: F374
+
+Start : F1250:
+DT
+End: F1250
+
+Start : F1251:
+200106100900
+End: F1251
+
+End: DTP
+Start : CL1:
+Start : F1315:
+4
+End: F1315
+
+Start : F1314:
+1
+End: F1314
+
+Start : F1352:
+01
+End: F1352
+
+End: CL1
+Start : REF:
+Start : F128:
+EA
+End: F128
+
+Start : F127:
+ABHMEDRECKID
+End: F127
+
+End: REF
+Start : REF:
+Start : F128:
+MRN
+End: F128
+
+Start : F127:
+ABHMEDRECMOM
+End: F127
+
+End: REF
+Start : NTE:
+Start : F363:
+UPI
+End: F363
+
+Start : F352:
+STATE SPECIFIC REQUIREMENTS
+End: F352
+
+End: NTE
+Start : HI:
+Start : C022_1:
+Start : F1270:
+BK
+End: F1270
+
+Start : F1271_1:
+V3000
+End: F1271_1
+
+End: C022_1
+Start : C022_2:
+Start : F1270:
+BJ
+End: F1270
+
+Start : F1271_1:
+V3000
+End: F1271_1
+
+End: C022_2
+End: HI
+Start : HI:
+Start : C022_1:
+Start : F1270:
+BF
+End: F1270
+
+Start : F1271_1:
+7625
+End: F1271_1
+
+Start : F1250:
+
+End: F1250
+
+Start : F1251:
+
+End: F1251
+
+Start : F782:
+
+End: F782
+
+Start : F380:
+
+End: F380
+
+Start : F799:
+
+End: F799
+
+Start : F1271_2:
+
+End: F1271_2
+
+Start : F1073:
+N
+End: F1073
+
+End: C022_1
+Start : C022_2:
+Start : F1270:
+BF
+End: F1270
+
+Start : F1271_1:
+V053
+End: F1271_1
+
+Start : F1250:
+
+End: F1250
+
+Start : F1251:
+
+End: F1251
+
+Start : F782:
+
+End: F782
+
+Start : F380:
+
+End: F380
+
+Start : F799:
+
+End: F799
+
+Start : F1271_2:
+
+End: F1271_2
+
+Start : F1073:
+N
+End: F1073
+
+End: C022_2
+End: HI
+Start : HI:
+Start : C022_1:
+Start : F1270:
+BR
+End: F1270
+
+Start : F1271_1:
+9604
+End: F1271_1
+
+Start : F1250:
+D8
+End: F1250
+
+Start : F1251:
+20010610
+End: F1251
+
+End: C022_1
+End: HI
+Start : HI:
+Start : C022_1:
+Start : F1270:
+BQ
+End: F1270
+
+Start : F1271_1:
+9955
+End: F1271_1
+
+Start : F1250:
+D8
+End: F1250
+
+Start : F1251:
+20010610
+End: F1251
+
+End: C022_1
+End: HI
+Start : HI:
+Start : C022_1:
+Start : F1270:
+BE
+End: F1270
+
+Start : F1271_1:
+54
+End: F1271_1
+
+Start : F1250:
+
+End: F1250
+
+Start : F1251:
+
+End: F1251
+
+Start : F782:
+3610
+End: F782
+
+End: C022_1
+End: HI
+Start : Loop2310:
+Start : NM1:
+Start : F98_1:
+71
+End: F98_1
+
+Start : F1065:
+1
+End: F1065
+
+Start : F1035_1:
+DOCTOR
+End: F1035_1
+
+Start : F1036:
+JOE
+End: F1036
+
+Start : F1037:
+
+End: F1037
+
+Start : F1038:
+
+End: F1038
+
+Start : F1039:
+
+End: F1039
+
+Start : F66:
+XX
+End: F66
+
+Start : F67:
+F88888
+End: F67
+
+End: NM1
+Start : REF:
+Start : F128:
+1G
+End: F128
+
+Start : F127:
+JDUPIN
+End: F127
+
+End: REF
+Start : REF:
+Start : F128:
+0B
+End: F128
+
+Start : F127:
+JDSTAATE
+End: F127
+
+End: REF
+End: Loop2310
+Start : Loop2310:
+Start : NM1:
+Start : F98_1:
+72
+End: F98_1
+
+Start : F1065:
+1
+End: F1065
+
+Start : F1035_1:
+SURGEON
+End: F1035_1
+
+Start : F1036:
+REALGOOD
+End: F1036
+
+Start : F1037:
+
+End: F1037
+
+Start : F1038:
+
+End: F1038
+
+Start : F1039:
+
+End: F1039
+
+Start : F66:
+XX
+End: F66
+
+Start : F67:
+F99999
+End: F67
+
+End: NM1
+Start : REF:
+Start : F128:
+0B
+End: F128
+
+Start : F127:
+RSUPIN
+End: F127
+
+End: REF
+Start : REF:
+Start : F128:
+1G
+End: F128
+
+Start : F127:
+RSSTATE
+End: F127
+
+End: REF
+End: Loop2310
+Start : Loop2320:
+Start : SBR:
+Start : F1138:
+S
+End: F1138
+
+Start : F1069:
+
+End: F1069
+
+Start : F127:
+
+End: F127
+
+Start : F93:
+
+End: F93
+
+Start : F1336:
+
+End: F1336
+
+Start : F1143:
+
+End: F1143
+
+Start : F1073:
+
+End: F1073
+
+Start : F584:
+
+End: F584
+
+Start : F1032:
+CI
+End: F1032
+
+End: SBR
+Start : Loop2330:
+Start : NM1:
+Start : F98_1:
+IL
+End: F98_1
+
+Start : F1065:
+1
+End: F1065
+
+Start : F1035_1:
+SAMPLE
+End: F1035_1
+
+Start : F1036:
+TIMOTHY
+End: F1036
+
+Start : F1037:
+O
+End: F1037
+
+End: NM1
+End: Loop2330
+End: Loop2320
+Start : Loop2400:
+Start : LX:
+Start : F554:
+1
+End: F554
+
+End: LX
+Start : SV2:
+Start : F234:
+001
+End: F234
+
+Start : F782_1:
+2343
+End: F782_1
+
+End: SV2
+End: Loop2400
+Start : Loop2400:
+Start : LX:
+Start : F554:
+2
+End: F554
+
+End: LX
+Start : SV2:
+Start : F234:
+171
+End: F234
+
+Start : F782_1:
+2232
+End: F782_1
+
+Start : F355:
+DA
+End: F355
+
+Start : F380:
+2
+End: F380
+
+Start : F1371:
+1116
+End: F1371
+
+End: SV2
+End: Loop2400
+Start : Loop2400:
+Start : LX:
+Start : F554:
+3
+End: F554
+
+End: LX
+Start : SV2:
+Start : F234:
+279
+End: F234
+
+Start : F782_1:
+37
+End: F782_1
+
+End: SV2
+End: Loop2400
+Start : Loop2400:
+Start : LX:
+Start : F554:
+4
+End: F554
+
+End: LX
+Start : SV2:
+Start : F234:
+309
+End: F234
+
+Start : F782_1:
+63
+End: F782_1
+
+End: SV2
+End: Loop2400
+Start : Loop2400:
+Start : LX:
+Start : F554:
+5
+End: F554
+
+End: LX
+Start : SV2:
+Start : F234:
+729
+End: F234
+
+Start : F782_1:
+11
+End: F782_1
+
+End: SV2
+End: Loop2400
+End: Loop2300
+End: Loop2000
+Start : Loop2000:
+Start : HL:
+Start : F628:
+4
+End: F628
+
+Start : F734:
+
+End: F734
+
+Start : F735:
+20
+End: F735
+
+Start : F736:
+1
+End: F736
+
+End: HL
+Start : Loop2010:
+Start : NM1:
+Start : F98_1:
+85
+End: F98_1
+
+Start : F1065:
+2
+End: F1065
+
+Start : F1035_1:
+ALL RIGHT HOSPITAL
+End: F1035_1
+
+Start : F1036:
+
+End: F1036
+
+Start : F1037:
+
+End: F1037
+
+Start : F1038:
+
+End: F1038
+
+Start : F1039:
+
+End: F1039
+
+Start : F66:
+24
+End: F66
+
+Start : F67:
+999008888
+End: F67
+
+End: NM1
+Start : REF:
+Start : F128:
+1J
+End: F128
+
+Start : F127:
+898989
+End: F127
+
+End: REF
+End: Loop2010
+End: Loop2000
+Start : Loop2000:
+Start : HL:
+Start : F628:
+5
+End: F628
+
+Start : F734:
+4
+End: F734
+
+Start : F735:
+22
+End: F735
+
+Start : F736:
+1
+End: F736
+
+End: HL
+Start : SBR:
+Start : F1138:
+P
+End: F1138
+
+Start : F1069:
+
+End: F1069
+
+Start : F127:
+
+End: F127
+
+Start : F93:
+
+End: F93
+
+Start : F1336:
+
+End: F1336
+
+Start : F1143:
+
+End: F1143
+
+Start : F1073:
+
+End: F1073
+
+Start : F584:
+
+End: F584
+
+Start : F1032:
+BL
+End: F1032
+
+End: SBR
+Start : Loop2010:
+Start : NM1:
+Start : F98_1:
+IL
+End: F98_1
+
+Start : F1065:
+1
+End: F1065
+
+Start : F1035_1:
+DUNNET
+End: F1035_1
+
+Start : F1036:
+BILL
+End: F1036
+
+Start : F1037:
+A
+End: F1037
+
+Start : F1038:
+
+End: F1038
+
+Start : F1039:
+MI
+End: F1039
+
+Start : F66:
+DUETBI1234
+End: F66
+
+End: NM1
+Start : N3:
+Start : F166_1:
+1313 MOCKINGBIRD LANE
+End: F166_1
+
+End: N3
+Start : N4:
+Start : F19:
+ANYTOWN
+End: F19
+
+Start : F156:
+NY
+End: F156
+
+Start : F116:
+09090
+End: F116
+
+End: N4
+Start : DMG:
+Start : F1250:
+D8
+End: F1250
+
+Start : F1251:
+19760706
+End: F1251
+
+Start : F1068:
+M
+End: F1068
+
+Start : F1067:
+
+End: F1067
+
+Start : C056:
+Start : F1109:
+RET
+End: F1109
+
+Start : F1270:
+3
+End: F1270
+
+Start : F1271:
+2
+End: F1271
+
+End: C056
+End: DMG
+Start : REF:
+Start : F128:
+SY
+End: F128
+
+Start : F127:
+130281234
+End: F127
+
+End: REF
+End: Loop2010
+Start : Loop2010:
+Start : NM1:
+Start : F98_1:
+PR
+End: F98_1
+
+Start : F1065:
+2
+End: F1065
+
+Start : F1035_1:
+EMPIRE BLUE CROSS
+End: F1035_1
+
+Start : F1036:
+
+End: F1036
+
+Start : F1037:
+
+End: F1037
+
+Start : F1038:
+
+End: F1038
+
+Start : F1039:
+
+End: F1039
+
+Start : F66:
+PI
+End: F66
+
+Start : F67:
+00303
+End: F67
+
+End: NM1
+End: Loop2010
+Start : Loop2300:
+Start : CLM:
+Start : F1028:
+ABH123456
+End: F1028
+
+Start : F782:
+5015
+End: F782
+
+Start : F1032:
+
+End: F1032
+
+Start : F1343:
+
+End: F1343
+
+Start : C023:
+Start : F1331:
+11
+End: F1331
+
+Start : F1332:
+A
+End: F1332
+
+Start : F1325:
+1
+End: F1325
+
+End: C023
+End: CLM
+Start : DTP:
+Start : F374:
+096
+End: F374
+
+Start : F1250:
+TM
+End: F1250
+
+Start : F1251:
+1200
+End: F1251
+
+End: DTP
+Start : DTP:
+Start : F374:
+434
+End: F374
+
+Start : F1250:
+RD8
+End: F1250
+
+Start : F1251:
+20010610-20010611
+End: F1251
+
+End: DTP
+Start : DTP:
+Start : F374:
+435
+End: F374
+
+Start : F1250:
+DT
+End: F1250
+
+Start : F1251:
+200106100900
+End: F1251
+
+End: DTP
+Start : CL1:
+Start : F1315:
+2
+End: F1315
+
+Start : F1314:
+1
+End: F1314
+
+Start : F1352:
+01
+End: F1352
+
+End: CL1
+Start : REF:
+Start : F128:
+EA
+End: F128
+
+Start : F127:
+ABHMEDRECMOM
+End: F127
+
+End: REF
+Start : NTE:
+Start : F363:
+UPI
+End: F363
+
+Start : F352:
+STATE SPECIFIC REQUIREMENTS
+End: F352
+
+End: NTE
+Start : HI:
+Start : C022_1:
+Start : F1270:
+BK
+End: F1270
+
+Start : F1271_1:
+66411
+End: F1271_1
+
+End: C022_1
+Start : C022_2:
+Start : F1270:
+BJ
+End: F1270
+
+Start : F1271_1:
+66411
+End: F1271_1
+
+End: C022_2
+End: HI
+Start : HI:
+Start : C022_1:
+Start : F1270:
+BF
+End: F1270
+
+Start : F1271_1:
+66331
+End: F1271_1
+
+Start : F1250:
+
+End: F1250
+
+Start : F1251:
+
+End: F1251
+
+Start : F782:
+
+End: F782
+
+Start : F380:
+
+End: F380
+
+Start : F799:
+
+End: F799
+
+Start : F1271_2:
+
+End: F1271_2
+
+Start : F1073:
+Y
+End: F1073
+
+End: C022_1
+Start : C022_2:
+Start : F1270:
+BF
+End: F1270
+
+Start : F1271_1:
+66111
+End: F1271_1
+
+Start : F1250:
+
+End: F1250
+
+Start : F1251:
+
+End: F1251
+
+Start : F782:
+
+End: F782
+
+Start : F380:
+
+End: F380
+
+Start : F799:
+
+End: F799
+
+Start : F1271_2:
+
+End: F1271_2
+
+Start : F1073:
+N
+End: F1073
+
+End: C022_2
+Start : C022_3:
+Start : F1270:
+BF
+End: F1270
+
+Start : F1271_1:
+V270
+End: F1271_1
+
+Start : F1250:
+
+End: F1250
+
+Start : F1251:
+
+End: F1251
+
+Start : F782:
+
+End: F782
+
+Start : F380:
+
+End: F380
+
+Start : F799:
+
+End: F799
+
+Start : F1271_2:
+
+End: F1271_2
+
+Start : F1073:
+N
+End: F1073
+
+End: C022_3
+End: HI
+Start : HI:
+Start : C022_1:
+Start : F1270:
+BR
+End: F1270
+
+Start : F1271_1:
+7569
+End: F1271_1
+
+Start : F1250:
+D8
+End: F1250
+
+Start : F1251:
+20010610
+End: F1251
+
+End: C022_1
+End: HI
+Start : HI:
+Start : C022_1:
+Start : F1270:
+BQ
+End: F1270
+
+Start : F1271_1:
+7309
+End: F1271_1
+
+Start : F1250:
+D8
+End: F1250
+
+Start : F1251:
+20010610
+End: F1251
+
+End: C022_1
+End: HI
+Start : Loop2310:
+Start : NM1:
+Start : F98_1:
+71
+End: F98_1
+
+Start : F1065:
+1
+End: F1065
+
+Start : F1035_1:
+DOCTOR
+End: F1035_1
+
+Start : F1036:
+JOE
+End: F1036
+
+Start : F1037:
+
+End: F1037
+
+Start : F1038:
+
+End: F1038
+
+Start : F1039:
+
+End: F1039
+
+Start : F66:
+XX
+End: F66
+
+Start : F67:
+F88888
+End: F67
+
+End: NM1
+Start : REF:
+Start : F128:
+1G
+End: F128
+
+Start : F127:
+JDUPIN
+End: F127
+
+End: REF
+Start : REF:
+Start : F128:
+0B
+End: F128
+
+Start : F127:
+JDSTAATE
+End: F127
+
+End: REF
+End: Loop2310
+Start : Loop2310:
+Start : NM1:
+Start : F98_1:
+72
+End: F98_1
+
+Start : F1065:
+1
+End: F1065
+
+Start : F1035_1:
+SURGEON
+End: F1035_1
+
+Start : F1036:
+REALGOOD
+End: F1036
+
+Start : F1037:
+
+End: F1037
+
+Start : F1038:
+
+End: F1038
+
+Start : F1039:
+
+End: F1039
+
+Start : F66:
+XX
+End: F66
+
+Start : F67:
+F99999
+End: F67
+
+End: NM1
+Start : REF:
+Start : F128:
+0B
+End: F128
+
+Start : F127:
+RSUPIN
+End: F127
+
+End: REF
+Start : REF:
+Start : F128:
+1G
+End: F128
+
+Start : F127:
+RSSTA
+End: F127
+
+End: REF
+End: Loop2310
+Start : Loop2320:
+Start : SBR:
+Start : F1138:
+S
+End: F1138
+
+Start : F1069:
+
+End: F1069
+
+Start : F127:
+
+End: F127
+
+Start : F93:
+
+End: F93
+
+Start : F1336:
+
+End: F1336
+
+Start : F1143:
+
+End: F1143
+
+Start : F1073:
+
+End: F1073
+
+Start : F584:
+
+End: F584
+
+Start : F1032:
+CI
+End: F1032
+
+End: SBR
+Start : Loop2330:
+Start : NM1:
+Start : F98_1:
+IL
+End: F98_1
+
+Start : F1065:
+1
+End: F1065
+
+Start : F1035_1:
+Dunnet
+End: F1035_1
+
+Start : F1036:
+Sue
+End: F1036
+
+Start : F1037:
+O
+End: F1037
+
+End: NM1
+End: Loop2330
+End: Loop2320
+Start : Loop2400:
+Start : LX:
+Start : F554:
+1
+End: F554
+
+End: LX
+Start : SV2:
+Start : F234:
+001
+End: F234
+
+Start : F782_1:
+5015-
+End: F782_1
+
+End: SV2
+End: Loop2400
+Start : Loop2400:
+Start : LX:
+Start : F554:
+2
+End: F554
+
+End: LX
+Start : SV2:
+Start : F234:
+122
+End: F234
+
+Start : F782_1:
+2754
+End: F782_1
+
+Start : F355:
+DA
+End: F355
+
+Start : F380:
+2
+End: F380
+
+Start : F1371:
+1377
+End: F1371
+
+End: SV2
+End: Loop2400
+Start : Loop2400:
+Start : LX:
+Start : F554:
+3
+End: F554
+
+End: LX
+Start : SV2:
+Start : F234:
+258
+End: F234
+
+Start : F782_1:
+15
+End: F782_1
+
+End: SV2
+End: Loop2400
+Start : Loop2400:
+Start : LX:
+Start : F554:
+4
+End: F554
+
+End: LX
+Start : SV2:
+Start : F234:
+259
+End: F234
+
+Start : F782_1:
+68
+End: F782_1
+
+End: SV2
+End: Loop2400
+Start : Loop2400:
+Start : LX:
+Start : F554:
+5
+End: F554
+
+End: LX
+Start : SV2:
+Start : F234:
+279
+End: F234
+
+Start : F782_1:
+59
+End: F782_1
+
+End: SV2
+End: Loop2400
+Start : Loop2400:
+Start : LX:
+Start : F554:
+6
+End: F554
+
+End: LX
+Start : SV2:
+Start : F234:
+305
+End: F234
+
+Start : F782_1:
+38
+End: F782_1
+
+End: SV2
+End: Loop2400
+Start : Loop2400:
+Start : LX:
+Start : F554:
+7
+End: F554
+
+End: LX
+Start : SV2:
+Start : F234:
+309
+End: F234
+
+Start : F782_1:
+39
+End: F782_1
+
+End: SV2
+End: Loop2400
+Start : Loop2400:
+Start : LX:
+Start : F554:
+8
+End: F554
+
+End: LX
+Start : SV2:
+Start : F234:
+729
+End: F234
+
+Start : F782_1:
+2034
+End: F782_1
+
+End: SV2
+End: Loop2400
+Start : Loop2400:
+Start : LX:
+Start : F554:
+9
+End: F554
+
+End: LX
+Start : SV2:
+Start : F234:
+999
+End: F234
+
+Start : F782_1:
+8
+End: F782_1
+
+End: SV2
+End: Loop2400
+End: Loop2300
+End: Loop2000
+Start : SE:
+Start : F96:
+135
+End: F96
+
+Start : F329:
+987654
+End: F329
+
+End: SE
+End: Message
+Start : GE:
+Start : F97:
+1
+End: F97
+
+Start : F28:
+1
+End: F28
+
+End: GE
+End: Group
+Start : IEA:
+Start : FI16:
+1
+End: FI16
+
+Start : FI12:
+100007098
+End: FI12
+
+End: IEA
+End: Interchange
